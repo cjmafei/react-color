@@ -1,12 +1,12 @@
 {
-  "name": "react-color",
-  "version": "2.19.0",
+  "name": "gd-react-color",
+  "version": "0.0.1",
   "description": "A Collection of Color Pickers from Sketch, Photoshop, Chrome & more",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/casesandberg/react-color.git"
+    "url": "git+https://github.com/cjmafei/react-color.git"
   },
   "author": "case <case@casesandberg.com>",
   "license": "MIT",

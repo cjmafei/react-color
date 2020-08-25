@@ -1,4 +1,4 @@
-# [React Color](http://casesandberg.github.io/react-color/)
+# [gd-React Color](http://casesandberg.github.io/react-color/)
 
 [![Npm Version][npm-version-image]][npm-version-url]
 [![Build Status][travis-svg]][travis-url]
@@ -18,7 +18,7 @@
 ## Installation & Usage
 
 ```sh
-npm install react-color --save
+npm install gd-react-color --save
 ```
 
 ### Include the Component
